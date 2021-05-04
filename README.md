@@ -29,9 +29,17 @@ The Vanilla JavaScript methods and functions, to iterate through the array and p
 ## Test
 
 To test the app we have used Postman. 
-The automatic tests can be accessed here. [TestPostman] (https://documenter.getpostman.com/view/12403463/TzRNE9oM)
+The automatic tests can be accessed here: (https://documenter.getpostman.com/view/12403463/TzRNE9oM)
 
-Step 1: Click the run button. ![Api](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsTwo.png?raw=true)
 
-Step 2: Click the Run AppsAPI button. ![Api](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsThree.png?raw=true)
-Results: ![Result](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsFour.png?raw=true)
+Step 1: Click the Run button. 
+
+![Api](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsTwo.png?raw=true)
+
+Step 2: Click the Run AppsAPI button. 
+
+![Api](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsThree.png?raw=true)
+
+Final Results: 
+
+![Result](https://github.com/andreiAlvarez/apps-api/blob/main/images/ApiAppsFour.png?raw=true)
