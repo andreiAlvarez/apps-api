@@ -1,5 +1,7 @@
 # Apps API
 
+[Live Demo](https://enigmatic-crag-09767.herokuapp.com/apps?by=id)
+
 Apps API is an app with a single endpoint “/apps” that returns an array of apps paginated following the next specifications and requirements. 
 
 ## Requirements
